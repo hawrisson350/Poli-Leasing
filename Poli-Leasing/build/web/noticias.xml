@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<noticias>
+    <not>
+        <titulo>Google y su nueva herramienta</titulo>
+        <desc>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+            Vestibulum pharetra tortor sapien, rutrum tincidunt leo
+            luctus vitae. Nunc sem odio, ullamcorper id placerat et,
+            mattis quis odio. Vivamus venenatis lacinia ipsum vitae
+            lacinia. Maecenas ac sapien non nisl gravida blandit at
+            vel nulla. Nullam eu erat sed diam vulputate fermentum.
+            Donec pulvinar fringilla quam, a porta metus mattis at.</desc>
+        <ima>http://ichef.bbci.co.uk/news/ws/660/amz/worldservice/live/assets/images/2015/09/01/150901210647_google_624x351_pa.jpg</ima>
+        <sub>El mundo esta atonito</sub>
+    </not>
+    <not>
+        <titulo>Casa en las vegas</titulo>
+        <desc>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+            Vestibulum pharetra tortor sapien, rutrum tincidunt leo
+            luctus vitae. Nunc sem odio, ullamcorper id placerat et,
+            mattis quis odio. Vivamus venenatis lacinia ipsum vitae
+            lacinia. Maecenas ac sapien non nisl gravida blandit at
+            vel nulla. Nullam eu erat sed diam vulputate fermentum.
+            Donec pulvinar fringilla quam, a porta metus mattis at.</desc>
+        <ima>https://puromarketinggermanvelasquez.files.wordpress.com/2011/10/casas-modernas1.jpg</ima>
+        <sub>Desde 1.000.000.000</sub>
+    </not>
+    <not>
+        <titulo>No te dan tu cuentas.</titulo>
+        <desc>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+            Vestibulum pharetra tortor sapien, rutrum tincidunt leo
+            luctus vitae. Nunc sem odio, ullamcorper id placerat et,
+            mattis quis odio. Vivamus venenatis lacinia ipsum vitae
+            lacinia. Maecenas ac sapien non nisl gravida blandit at
+            vel nulla. Nullam eu erat sed diam vulputate fermentum.
+            Donec pulvinar fringilla quam, a porta metus mattis at.</desc>
+        <ima>http://static3.sobrehistoria.com/wp-content/uploads/2012/07/numerosRomanos.jpg</ima>
+        <sub>Algunos tips utiles</sub>
+    </not>
+</noticias>
+
+
+
